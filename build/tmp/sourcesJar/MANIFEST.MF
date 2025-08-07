@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Keyple Card Calypso Java Examples Sources
+Implementation-Version: 2.0.0-SNAPSHOT
+

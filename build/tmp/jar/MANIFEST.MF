@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Keyple Card Calypso Java Examples
+Implementation-Version: 2.0.0-SNAPSHOT
+Implementation-Vendor: Eclipse keyple
+Implementation-URL: https://github.com/eclipse-keyple/keyple-java-exampl
+ e
+Specification-Title: Keyple Card Calypso Java Examples
+Specification-Version: 2.0.0-SNAPSHOT
+Specification-Vendor: Eclipse keyple
+Created-By: 11.0.16.1 (Microsoft)
+Build-Jdk: 11.0.16.1
+
