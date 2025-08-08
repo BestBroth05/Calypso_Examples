@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Calypso Example",
+      "request": "launch",
+      "mainClass": "org.eclipse.keyple.card.calypso.example.UseCase8_StoredValue_DebitInSession.Main_StoredValue_DebitInSession_Pcsc",
+      "projectName": "Example_Card_Calypso"
+    }
+  ]
+}
